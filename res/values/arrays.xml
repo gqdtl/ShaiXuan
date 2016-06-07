@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="quyu">
+        <item>全宜宾</item>
+        <item>翠屏区</item>
+        <item>宜宾县</item>
+        <item>南溪</item>
+        <item>江安</item>
+        <item>长宁</item>
+        <item>高县</item>
+        <item>筠连</item>
+        <item>珙县</item>
+        <item>兴文</item>
+    </string-array>
+    <string-array name="zongjia">
+        <item>不限</item>
+        <item>20万以下</item>
+        <item>20&#8211;30万</item>
+        <item>30&#8211;40万</item>
+        <item>40&#8211;50万</item>
+        <item>50&#8211;60万</item>
+        <item>60&#8211;80万</item>
+        <item>80&#8211;100万</item>
+        <item>100&#8211;120万</item>
+        <item>120&#8211;150万</item>
+        <item>150万以上</item>
+    </string-array>
+    <string-array name="huxing">
+        <item>不限</item>
+        <item>一室</item>
+        <item>二室</item>
+        <item>三室</item>
+        <item>四室</item>
+        <item>四室以上</item>
+    </string-array>
+    <string-array name="nanxi">
+        <item>全南溪</item>
+        <item>南溪镇</item>
+    </string-array>
+    <string-array name="cuiping">
+        <item>全翠屏</item>
+        <item>老城区</item>
+        <item>南岸西区</item>
+        <item>南岸东区</item>
+        <item>上江北</item>
+        <item>下江北</item>
+        <item>外江路</item>
+        <item>大观楼</item>
+        <item>西郊</item>
+    </string-array>
+	
+</resources>
